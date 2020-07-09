@@ -8,5 +8,6 @@ def countdown(num_sec)
 
 def countdown_with_sleep(num_sec)
   while num_sec > 0
-  puts "#{num_sec}"
+  puts "#{num_sec} SECOND(S)!"
+  sleep(1)
 end
