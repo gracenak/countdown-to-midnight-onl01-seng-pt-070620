@@ -1,4 +1,4 @@
- def countdown(n)
+ def countdown(num_sec)
    while n > 0
    puts "#{n} SECOND(S)!" 
    n -= 1
