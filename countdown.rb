@@ -7,4 +7,6 @@ def countdown(num_sec)
  end
 
 def countdown_with_sleep(num_sec)
+  while num_sec > 0
+  puts "#{num_sec}"
 end
