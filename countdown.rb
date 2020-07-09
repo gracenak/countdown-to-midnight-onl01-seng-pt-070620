@@ -4,7 +4,7 @@ n = 10
  n -= 1
 
 def countdown(n)
-  puts "HAPPY NEW YEAR!"
+  "HAPPY NEW YEAR!"
 end
 end
 
