@@ -2,7 +2,7 @@ n = 10
  while n > 0
  puts "#{n} SECOND(S)!" 
  n -= 1
-
+ break
 def countdown(n)
   "HAPPY NEW YEAR!"
 end
